@@ -1,6 +1,6 @@
 # Server Configuration Resources
 I
-Welcome to the Server Configuration Resources repository! This repository is a collection of useful web resources found to help you configure and manage dedicated servers and Virtual Private Servers (VPS). Whether you are a beginner looking for step-by-step guides or an experienced sysadmin seeking advanced tips and tricks, you'll find valuable information here.
+Welcome! This repository is a collection of useful web resources found to help you configure and manage dedicated servers and Virtual Private Servers (VPS). Whether you are a beginner looking for step-by-step guides or an experienced sysadmin seeking advanced tips and tricks, you'll find valuable information here.
 
 ## Table of Contents
 
