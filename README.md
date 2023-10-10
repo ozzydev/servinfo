@@ -8,7 +8,6 @@ Welcome! This repository is a collection of useful web resources found to help y
 - [Getting Started](#getting-started)
 - [Topics Covered](#topics-covered)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -62,6 +61,3 @@ Your contributions are highly appreciated! If you have a resource that you belie
 
 Please ensure that your contributed resources are of high quality, up-to-date, and include a brief description.
 
-## License
-
-This repository is open-source and available under the [MIT License](LICENSE). By contributing to this repository, you agree to make your contributions available under the same license.
